@@ -9,13 +9,13 @@ My-List
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-やった
+ようこそ
 
 # description
 
 > This is the description of the feed.
 
-やったぜ
+知っていると便利そうなことをまとめました。
 
 # searchTerms
 
@@ -25,8 +25,14 @@ My-List
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- やった
-- だん
+- https://bsky.app/profile/ffi.bsky.social/post/3k5bnxtbhow2v
+- https://bsky.app/profile/littlehermit.bsky.social/post/3k3ltsc6h4p2x
+- https://bsky.app/profile/zatsumu.bsky.social/post/3k4ijrkivn62d
+- https://bsky.app/profile/yukotan.bsky.social/post/3jzlwevo3cz2m
+- https://bsky.app/profile/matope.bsky.social/post/3k3fxnfjd7n2z
+- https://bsky.app/profile/ffi.bsky.social/post/3k4ek3htv3x25
+- https://bsky.app/profile/ffi.bsky.social/post/3k3z5yyx4fu2y
+- https://bsky.app/profile/showya.bsky.social/post/3k5anrgr7qy2z
 
 # safeMode
 

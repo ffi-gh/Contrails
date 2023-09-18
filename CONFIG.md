@@ -28,14 +28,16 @@ My-List
 - https://bsky.app/profile/ffi.bsky.social/post/3k5bnxtbhow2v
 - https://bsky.app/profile/littlehermit.bsky.social/post/3k3ltsc6h4p2x
 - https://bsky.app/profile/yukotan.bsky.social/post/3jzlwevo3cz2m
-- https://bsky.app/profile/zatsumu.bsky.social/post/3k4ijrkivn62d
-- https://bsky.app/profile/wangdora.jp/post/3jzmm6nu5q52h
 - https://bsky.app/profile/matope.bsky.social/post/3k3fxnfjd7n2z
+- https://bsky.app/profile/wangdora.jp/post/3k7insflwcj2u
+- https://bsky.app/profile/mizu.bsky.social/post/3k7bmdb4l7s2e
 - https://bsky.app/profile/ffi.bsky.social/post/3k4ek3htv3x25
 - https://bsky.app/profile/itokonn.bsky.social/post/3k4yjvnghts2u
 - https://bsky.app/profile/aming.bsky.social/post/3k4ykljcc4a2e
-- https://bsky.app/profile/ffi.bsky.social/post/3k3z5yyx4fu2y
+- https://bsky.app/profile/ffi.bsky.social/post/3k3bk2ckmsb2n
 - https://bsky.app/profile/showya.bsky.social/post/3k5anrgr7qy2z
+- https://bsky.app/profile/ffi.bsky.social/post/3k3z5yyx4fu2y
+- https://bsky.app/profile/ffi.bsky.social/post/3k4tsv3adlo2p
 
 # safeMode
 

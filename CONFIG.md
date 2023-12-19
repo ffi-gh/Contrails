@@ -26,22 +26,22 @@ My-List
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - https://bsky.app/profile/ffi.bsky.social/post/3k5bnxtbhow2v
-- https://bsky.app/profile/littlehermit.bsky.social/post/3k3ltsc6h4p2x
+- https://bsky.app/profile/ffi.bsky.social/post/3kgvlmgf77f2z
 - https://bsky.app/profile/matope.bsky.social/post/3k3fxnfjd7n2z
 - https://bsky.app/profile/uakihir0.com/post/3k5efgbj24y2o
-- https://bsky.app/profile/mizu.bsky.social/post/3k7bmdb4l7s2e
-- https://bsky.app/profile/yukotan.bsky.social/post/3jzlwevo3cz2m
-- https://bsky.app/profile/moriyamaryu.bsky.social/post/3kbmwzt2s4s2c
-- https://bsky.app/profile/ffi.bsky.social/post/3kbomear3yi2y
 - https://bsky.app/profile/itokonn.bsky.social/post/3k4yjvnghts2u
 - https://bsky.app/profile/aming.bsky.social/post/3k4ykljcc4a2e
-- https://bsky.app/profile/ffi.bsky.social/post/3k4ek3htv3x25
 - https://bsky.app/profile/ffi.bsky.social/post/3k3bk2ckmsb2n
-- https://bsky.app/profile/gohanclub.bsky.social/post/3k3gkwyxlsi2r
+- https://bsky.app/profile/ffi.bsky.social/post/3k4ek3htv3x25
+- https://bsky.app/profile/bfn-admin.bsky.social/post/3kdxjvw2e3l2b
 - https://bsky.app/profile/ffi.bsky.social/post/3k3z5yyx4fu2y
-- https://bsky.app/profile/ffi.bsky.social/post/3k4tsv3adlo2p
+- https://bsky.app/profile/mizu.bsky.social/post/3k7bmdb4l7s2e
+- https://bsky.app/profile/yukotan.bsky.social/post/3jzlwevo3cz2m
+- https://bsky.app/profile/tokimeki.blue/post/3kdgwedbaxt2x
 - https://bsky.app/profile/showya.bsky.social/post/3k5anrgr7qy2z
-
+- https://bsky.app/profile/so-asano.com/post/3kdl7car66h2g
+- https://bsky.app/profile/ffi.bsky.social/post/3kgskfx5fzc27
+  
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.

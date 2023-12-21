@@ -35,7 +35,7 @@ My-List
 - https://bsky.app/profile/ffi.bsky.social/post/3k4ek3htv3x25
 - https://bsky.app/profile/bfn-admin.bsky.social/post/3kdxjvw2e3l2b
 - https://bsky.app/profile/ffi.bsky.social/post/3k3z5yyx4fu2y
-- https://bsky.app/profile/mizu.bsky.social/post/3k7bmdb4l7s2e
+- https://bsky.app/profile/mizu.bsky.social/post/3kgvukuwpx52p
 - https://bsky.app/profile/yukotan.bsky.social/post/3jzlwevo3cz2m
 - https://bsky.app/profile/tokimeki.blue/post/3kdgwedbaxt2x
 - https://bsky.app/profile/showya.bsky.social/post/3k5anrgr7qy2z

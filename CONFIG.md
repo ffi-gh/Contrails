@@ -25,7 +25,7 @@ My-List
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/ffi.bsky.social/post/3k5bnxtbhow2v
+- https://bsky.app/profile/seelsorge.me/post/3kksw52lown2q
 - https://bsky.app/profile/ffi.bsky.social/post/3kgvlmgf77f2z
 - https://bsky.app/profile/matope.bsky.social/post/3k3fxnfjd7n2z
 - https://bsky.app/profile/uakihir0.com/post/3k5efgbj24y2o
